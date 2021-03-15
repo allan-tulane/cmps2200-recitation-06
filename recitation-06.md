@@ -1,4 +1,4 @@
-# CMPS 2200  Recitation 05
+# CMPS 2200  Recitation 06
 
 As we've seen, greedy algorithms often have to find the next best decision. In this lab, we'll look at the heap, or priority queue, data structure, which is useful for greedy algorithms. In particular we will implement a binary "min-heap", which allows for efficient insertion and deletion operations.
 
